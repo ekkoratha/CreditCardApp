@@ -27,7 +27,7 @@ This application contains Swagger
 
 H2 Console
 
-* ####http://localhost:8080/h2
+* #### http://localhost:8080/h2
 
 
 Assumptions
